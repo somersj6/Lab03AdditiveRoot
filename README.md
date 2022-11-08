@@ -1,5 +1,6 @@
 # Lab03AdditiveRoot
 A lab calculating the additive root and persistence.
+
 #include <iostream>
 #include <iomanip>
 #include <cmath>
